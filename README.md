@@ -20,7 +20,7 @@ The goal is to answer one key question:
 hollywood-movie-prediction/
 │
 ├── data/
-│   └── hollywood_movies_2022_2024.csv   # Dataset (64 real movies)
+│   └── Data.csv   # Dataset (64 real movies)
 │
 ├── notebooks/
 │   └── movie_prediction.ipynb           # Main Jupyter Notebook
