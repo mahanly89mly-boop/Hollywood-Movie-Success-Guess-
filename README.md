@@ -76,6 +76,14 @@ pip install -r requirements.txt
 jupyter notebook notebooks/movie_prediction.ipynb
 ```
 
+| Metric | Score |
+|--------|-------|
+| ROC-AUC | 0.66 |
+| Recall  | 0.33 |
+| Accuracy | 0.80 |
+| Precision | 1.0 |
+
+
 ---
 
 ## 🧪 Requirements
