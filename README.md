@@ -75,7 +75,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/movie_prediction.ipynb
 ```
-
 ## Result 
 
 | Metric | Score |
